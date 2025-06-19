@@ -1,5 +1,7 @@
-Opdracht 1
+Les 4
 
-code opdracht 1 : https://github.com/MarcosMartinsCarvalho/PROGM4/blob/main/PROG-M4/Assets/PlayerScore.cs
 
-![image](https://github.com/user-attachments/assets/cfbb3016-f97d-4d8c-a8b6-6ca34fec8e64)
+![ScreenRecording2025-06-19122143-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f5fd10ab-5a08-4c56-a292-6629074805fd)
+
+
+code : https://github.com/MarcosMartinsCarvalho/PROGM4/tree/main/PROG-M4/Assets/opdarcht4
