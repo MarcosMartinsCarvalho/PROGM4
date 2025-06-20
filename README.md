@@ -15,6 +15,13 @@ Code: https://github.com/MarcosMartinsCarvalho/PROGM4/tree/main/PROG-M4/Assets/O
 druk op spacebar en player springt 
 ![ScreenRecording2025-06-20122026-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f8e312e4-56fb-433d-8743-6a9034ef308e)
 
+les3
+
+Code: https://github.com/MarcosMartinsCarvalho/PROGM4/tree/main/PROG-M4/Assets/opdracht3
+
+5 seconden om alles te pakken en krijg je te zien of je gewonnen hebt
+![ScreenRecording2025-06-20123520-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1495dd69-88c9-4296-9f78-516d14b86d1a)
+
 
 
 
