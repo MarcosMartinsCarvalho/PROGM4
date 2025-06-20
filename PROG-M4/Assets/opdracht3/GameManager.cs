@@ -1,11 +1,11 @@
 using UnityEngine;
-
+using TMPro;
 public class GameManager : MonoBehaviour
 {
     public float speed = 5f;
     public float timeLeft = 5f;
     private int score = 0;
-
+    public TMPro.TextMeshProUGUI scoreText;
     void Update()
     {
         float moveX = Input.GetAxis("Horizontal");
@@ -25,12 +25,18 @@ public class GameManager : MonoBehaviour
 
         Debug.Log("Tijd: " + Mathf.Round(timeLeft) + " | Score: " + score);
     }
+    private void FixedUpdate()
+    {
+        scoreText.text = "Score: " + score;
+    }
+    
 
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.name == "Coin")
         {
             score += 10;
+
             Debug.Log("Munt gepakt! +10 punten");
             Destroy(other.gameObject);
         }
