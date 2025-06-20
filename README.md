@@ -1,5 +1,16 @@
 MOVEMENT SCRIPT STAAT BIJ NIEUWSTE LES
 
+Les 1
+
+Code: https://github.com/MarcosMartinsCarvalho/PROGM4/tree/main/PROG-M4/Assets/opdracht1
+
+druk op spacebar en er komt een punt bij tot dat je hebt gewonnen
+
+![Uploading ScreenRecording2025-06-20121115-ezgif.com-video-to-gif-converter.gif…]()
+
+
+
+
 
 Les 4
 code : https://github.com/MarcosMartinsCarvalho/PROGM4/tree/main/PROG-M4/Assets/opdarcht4
