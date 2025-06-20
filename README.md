@@ -46,3 +46,22 @@ les 6
 code: https://github.com/MarcosMartinsCarvalho/PROGM4/tree/main/PROG-M4/Assets/opdracht6
 cilinder follow en gaat terug na een paar seconden ( of gelijk als de player niet beweegt)
 ![ScreenRecording2025-06-20114909-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/cb30dabd-a198-4068-9968-f1d08445f85f)
+
+
+les 7
+
+code:
+punten zijn zichtbaar met textmeshpro, gebruikt les 4 code
+![ScreenRecording2025-06-20124545-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/2b0b08d7-c462-426e-8bbf-e3d02424beda)
+
+
+
+
+
+
+
+
+
+
+
+
